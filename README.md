@@ -9,9 +9,7 @@
 
 - 📝 I regularly write articles on [my website](https://nathanojieabu.com/blog)
 
-- 💬 Ask me about **Javascript, Typescript, React, Python**
-
-- 📫 How to reach me **mcfwesh@gmail.com**
+- 📫 How to reach me **nathanojieabu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-99v9z88etoeC6abbHrEh91eqN_1W-Ar/view?usp=drive_link](https://drive.google.com/file/d/1-99v9z88etoeC6abbHrEh91eqN_1W-Ar/view?usp=drive_link)
 
