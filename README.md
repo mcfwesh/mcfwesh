@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcfwesh" alt="mcfwesh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://n-ojieabu.vercel.app](https://n-ojieabu.vercel.app)
+- 👨‍💻 All of my projects are available at [https://nathanojieabu.com/](https://nathanojieabu.com/)
 
-- 📝 I regularly write articles on [https://n-ojieabu.vercel.app/blog](https://n-ojieabu.vercel.app/blog)
+- 📝 I regularly write articles on [https://nathanojieabu.com/blog](https://nathanojieabu.com/blog)
 
 - 💬 Ask me about **Javascript, Typescript, React, Python**
 
