@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A full stack developer, and AWS certified cloud engineer with 3+ years of experience in software development, passionate about building scalable, secure, and performant applications. Proven track record of delivering high-quality solutions to meet customer design requirements and exceed project deadlines Experienced in various industries, and committed to staying up-to-date with the latest software development standards and best practices.</h3>
+<h3 align="center">Cloud & DevOps Engineer | Full-Stack Developer. Building practical, user-focused tech across AWS, Azure, Kubernetes, React, and Node.js. Passionate about simplifying technology and creating beneficial solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcfwesh&label=Profile%20views&color=0e75b6&style=flat" alt="mcfwesh" /> </p>
 
