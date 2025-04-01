@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">Cloud & DevOps Engineer | Full-Stack Developer. Building practical, user-focused tech across AWS, Azure, Kubernetes, React, and Node.js. Passionate about simplifying technology and creating beneficial solutions.</h3>
+<h3 align="center">Full Stack Engineer building scalable web/mobile applications (React, Node.js, Python) on AWS/Azure, specializing in leveraging DevOps practices (CI/CD, K8s, Docker, IaC) to enhance reliability, optimize performance, and accelerate software delivery. Proven ability driving efficiency and reducing costs in cloud environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcfwesh&label=Profile%20views&color=0e75b6&style=flat" alt="mcfwesh" /> </p>
 
